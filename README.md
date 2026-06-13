@@ -5,6 +5,6 @@ Build your own Ideas &amp; Technology, This repository is a to show my projects 
 2. DISCORD MUSIC BOT | https://github.com/Savage404E/SAVAGE-MUSIC
 3. Terminal Portfolio Website | https://github.com/Savage404E/Terminal_Portfolio | LIVE : https://savage404e.github.io/Terminal_Portfolio/
 4. india stockmarket With AI Agent Tool | https://github.com/Savage404E/indian-smart-stockmarket | LIVE :
-5. NoteCanvas app | 
+5. NoteCanvas app | https://github.com/Savage404E/NoteCanvas
 
 
