@@ -1,5 +1,5 @@
 # Projects Repo List 
-Build your own Ideas &amp; Technology, This repository is a to show my projects that i work on.
+This repository is a to show my projects that i work on.
 
 1. SAVAGE DISCORD BOT ✯
 - GAME CODE : https://github.com/Savage404E/SAVAGE-BOT .
