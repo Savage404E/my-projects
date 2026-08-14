@@ -4,7 +4,7 @@ Build your own Ideas &amp; Technology, This repository is a to show my projects 
 1. SAVAGE DISCORD BOT 
 - GAME CODE : https://github.com/Savage404E/SAVAGE-BOT .
 - WEBSITE LIVE : https://savage404e.github.io/SAVAGE-BOT/
-- RULES LIVE : 
+- RULES LIVE : https://savage404e.github.io/SAVAGE-RULES/
 2. My Portfolio Website
 - CODE : https://github.com/Savage404E/Sahil-Portfolio .
 - LIVE : https://savage404e.github.io/Sahil-Portfolio/
