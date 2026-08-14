@@ -1,4 +1,4 @@
-# my projects
+# my projects Repos
 Build your own Ideas &amp; Technology, This repository is a to show my projects that i work on.
 
 1. SAVAGE DISCORD BOT 
