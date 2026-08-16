@@ -2,8 +2,8 @@
 This repository is a to show my projects that i work on.
 
 1. SAVAGE DISCORD BOT ✯
-- 'SAVAGE' GAME BOT CODE : https://github.com/Savage404E/SAVAGE-BOT
-- WEBSITE CODE : https://github.com/Savage404E/SAVAGE-WEBSITE .
+- 'SAVAGE' GAME BOT CODE : https://github.com/Savage404E/SAVAGE-BOT !
+- WEBSITE CODE : https://github.com/Savage404E/SAVAGE-WEBSITE
 - WEBSITE LIVE : https://savage404e.github.io/SAVAGE-WEBSITE/
 - RULES CODE : https://github.com/Savage404E/SAVAGE-RULES
 - RULES LIVE : https://savage404e.github.io/SAVAGE-RULES/
