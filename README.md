@@ -5,7 +5,7 @@ This repository is a to show my projects that i work on.
 - 'SAVAGE' GAME BOT CODE :
 - WEBSITE CODE : https://github.com/Savage404E/SAVAGE-WEBSITE .
 - WEBSITE LIVE : https://savage404e.github.io/SAVAGE-WEBSITE/
-- RULES CODE : 
+- RULES CODE : https://github.com/Savage404E/SAVAGE-RULES
 - RULES LIVE : https://savage404e.github.io/SAVAGE-RULES/
 2. My Portfolio Website ✯
 - CODE : https://github.com/Savage404E/Sahil-Portfolio .
